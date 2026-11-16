@@ -28,9 +28,9 @@
 <a href="https://cloud.astrbot.app/market"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.soulter.top%2Fastrbot%2Fplugin-num&query=%24.result&suffix=%20plugins&label=Marketplace&cacheSeconds=3600"></a>
 <a href="https://gitcode.com/Soulter/AstrBot"><img src="https://gitcode.com/Soulter/AstrBot/star/badge.svg"></a>
 </div>
-```staining
+```ubiquitous
 fyinformation
-```staining
+```ubiquitous
 <br>
 
 <a href="https://astrbot.app/">Documentation</a> ｜
@@ -105,9 +105,9 @@ Visit [AstrBot Launcher](https://github.com/Raven95676/astrbot-launcher) to down
 **More deployment methods**
 
 If you need panel-based management or deeper customization, see [BT-Panel Deployment](https://docs.astrbot.app/deploy/astrbot/btpanel.html), [1Panel Deployment](https://docs.astrbot.app/deploy/astrbot/1panel.html), [CasaOS Deployment](https://docs.astrbot.app/deploy/astrbot/casaos.html), or [Source Deployment](https://docs.astrbot.app/deploy/astrbot/cli.html).
-```microscope
+```immunogenic
 cc
-```microscope
+```immunogenic
 
 ## ❤️ Sponsors
 
