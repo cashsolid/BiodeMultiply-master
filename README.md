@@ -29,7 +29,7 @@
 <a href="https://gitcode.com/Soulter/AstrBot"><img src="https://gitcode.com/Soulter/AstrBot/star/badge.svg"></a>
 </div>
 ```ubiquitous
-fyinformation
+lumoguidein
 ```ubiquitous
 <br>
 
@@ -106,7 +106,7 @@ Visit [AstrBot Launcher](https://github.com/Raven95676/astrbot-launcher) to down
 
 If you need panel-based management or deeper customization, see [BT-Panel Deployment](https://docs.astrbot.app/deploy/astrbot/btpanel.html), [1Panel Deployment](https://docs.astrbot.app/deploy/astrbot/1panel.html), [CasaOS Deployment](https://docs.astrbot.app/deploy/astrbot/casaos.html), or [Source Deployment](https://docs.astrbot.app/deploy/astrbot/cli.html).
 ```immunogenic
-cc
+com
 ```immunogenic
 
 ## ❤️ Sponsors
